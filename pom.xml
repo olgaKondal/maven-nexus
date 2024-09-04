@@ -92,7 +92,7 @@
           </reportPlugins>
         </configuration>
       </plugin>
-    </plugins
+    </plugins>
     <finalName>${artifactName}</finalName>
 
     <pluginManagement>
